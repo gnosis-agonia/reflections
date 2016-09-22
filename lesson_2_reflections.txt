@@ -13,3 +13,7 @@
 
 	- You can use it to review your work and changes before committing. 
 	Should lead to less clutter. 
+
+4. What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+	- If you are exploring a few ideas, versions, languages, for a program.
+	You don’t have to risk or redo previous work. 
