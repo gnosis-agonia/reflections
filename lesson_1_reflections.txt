@@ -1,0 +1,53 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    By looking for errors only in things that were changed from a working
+    program, the amount of material to search through was greatly reduced.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You could compare the current version with one that didn't present any
+    bugs that you are currently facing and decide if you can fix them or
+    if you should go back and start again before things went wrong.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    Pro: You can adapt it to your work flow more readily, you can decide when
+    the big turning points are in your project and work accordingly. You also
+    might have a better idea of knowing when important changes were made to
+    make the search easier.
+
+    Con: You may not time it correctly... you don't always know what will
+    constitute a big change. You may forget.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    Because you can have multiple files which rely on each other. If you change
+    one, you will need to change the other. It will likely be simpler to have
+    them saved together so that there are no alignment issues.
+
+How can you use the commands git log and git diff to view the history of files?
+
+    git log can tell you where you've been and git diff can tell you what
+    you've changed.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    You get infinite redos! You shouldn't be intimidated about making changes!
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Email versions, website versions, python projects, database lessons...
+    Everything
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    Becoming more aware of mistakes, recognizing patterns and capturing code
+    that might not work in the final iteration of the project but may work
+    for another in the future.

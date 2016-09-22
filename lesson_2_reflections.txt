@@ -3,3 +3,8 @@
 
    -It creates a space where you can track all of the changes
     you have made on your own computer.
+
+2. How is the staging area different from the working directory and
+   the repository? What value do you think it offers?
+   -It allows you more control and a chance to review before
+    committing anything to the repo.
