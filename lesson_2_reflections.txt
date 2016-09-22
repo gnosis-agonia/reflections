@@ -8,3 +8,8 @@
    the repository? What value do you think it offers?
    -It allows you more control and a chance to review before
     committing anything to the repo.
+
+3. How can you use the staging area to make sure you have one commit per logical change?
+
+	- You can use it to review your work and changes before committing. 
+	Should lead to less clutter. 
