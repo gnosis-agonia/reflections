@@ -26,4 +26,9 @@
 6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
   - It is a waiving together of two branches such that those intentional changes
-  work together. It is pretty cool.  
+  work together. It is pretty cool.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+  - It seems like a smoother process, but I could see how it could produce a
+  few errors.
