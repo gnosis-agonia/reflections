@@ -22,3 +22,8 @@
 5. How do the diagrams help you visualize the branch structure?
 
   - They are a visualization structure...
+
+6. What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+  - It is a waiving together of two branches such that those intentional changes
+  work together. It is pretty cool.  
